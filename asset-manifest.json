@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SEG3125-A2-Proto/static/css/main.df5c8fd3.css",
+    "main.js": "/SEG3125-A2-Proto/static/js/main.6a6c63ef.js",
+    "static/media/pcbuilder.png": "/SEG3125-A2-Proto/static/media/pcbuilder.6a754dc520495d7f57a6.png",
+    "static/media/ryzenhero.webp": "/SEG3125-A2-Proto/static/media/ryzenhero.77429665e44143aec5d7.webp",
+    "static/media/CPU9900.jpg": "/SEG3125-A2-Proto/static/media/CPU9900.c8dfd0f5099bdbe3ba7c.jpg",
+    "static/media/placeholder.jpg": "/SEG3125-A2-Proto/static/media/placeholder.6b1073ad6333e8dc1c09.jpg",
+    "static/media/CPU9800.jpg": "/SEG3125-A2-Proto/static/media/CPU9800.2ce0e485cf8abf6bc068.jpg",
+    "static/media/CPU9950.jpg": "/SEG3125-A2-Proto/static/media/CPU9950.33376d25a1b1318b93a4.jpg",
+    "static/media/CPU9500.jpg": "/SEG3125-A2-Proto/static/media/CPU9500.65b4afb62af9d2325366.jpg",
+    "static/media/CPU9600.jpg": "/SEG3125-A2-Proto/static/media/CPU9600.65b4afb62af9d2325366.jpg",
+    "static/media/CPU9700.jpg": "/SEG3125-A2-Proto/static/media/CPU9700.b33adbc4a8c97a101c1b.jpg",
+    "index.html": "/SEG3125-A2-Proto/index.html",
+    "main.df5c8fd3.css.map": "/SEG3125-A2-Proto/static/css/main.df5c8fd3.css.map",
+    "main.6a6c63ef.js.map": "/SEG3125-A2-Proto/static/js/main.6a6c63ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5c8fd3.css",
+    "static/js/main.6a6c63ef.js"
+  ]
+}
