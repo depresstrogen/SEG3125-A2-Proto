@@ -20,7 +20,7 @@ class Home extends Component{
                         <div className = "col-sm-6 align-self-center" >
                             <h1 style={{color: "white", background: "black"}}><b>New! </b>AMD Ryzen 9000 Series CPUs</h1>
                             <h3 style={{color: "white", background: "black"}}>The fastest desktop processors on the market</h3>
-                            <Link to="/ProductPage">
+                            <Link to="/SEG3125-A2-Proto/ProductPage">
                                 <a class = "btn btn-primary btn-large " style={{backgroundColor: "#D3432D"}} >Browse AMD Products</a>
                             </Link>
                         </div>
