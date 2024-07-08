@@ -36,7 +36,9 @@ class Home extends Component{
                         <div className = "col-sm-6 align-self-center" >
                             <h1 style={{color: "white", background: "black"}}>Have our experts do the work for you</h1>
                             <h3 style={{color: "white", background: "black"}}>We can design and build a computer specifically for your needs</h3>
-                            <a class = "btn btn-primary btn-large " style={{backgroundColor: "#D3432D"}} href = "#NuhUh">Consult our Experts</a>
+                            <Link to="/SEG3125-A2-Proto/Expert">
+                                <a class = "btn btn-primary btn-large " style={{backgroundColor: "#D3432D"}} >Consult our Experts</a>
+                            </Link>
                         </div>
 
                         <div className = "col-sm-3"> </div>
