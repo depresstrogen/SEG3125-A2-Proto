@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/SEG3125-A2-Proto/static/css/main.df5c8fd3.css",
-    "main.js": "/SEG3125-A2-Proto/static/js/main.4044bda4.js",
+    "main.js": "/SEG3125-A2-Proto/static/js/main.189ed62e.js",
     "static/media/pcbuilder.png": "/SEG3125-A2-Proto/static/media/pcbuilder.6a754dc520495d7f57a6.png",
+    "static/media/gta5.png": "/SEG3125-A2-Proto/static/media/gta5.fc212f81578d5aadf49f.png",
     "static/media/ryzenhero.webp": "/SEG3125-A2-Proto/static/media/ryzenhero.77429665e44143aec5d7.webp",
+    "static/media/lol.png": "/SEG3125-A2-Proto/static/media/lol.7c465aac062320a32c45.png",
     "static/media/CPU9900.jpg": "/SEG3125-A2-Proto/static/media/CPU9900.c8dfd0f5099bdbe3ba7c.jpg",
+    "static/media/eldenring.webp": "/SEG3125-A2-Proto/static/media/eldenring.9108c0bbd28ad70c1070.webp",
+    "static/media/cod.jpg": "/SEG3125-A2-Proto/static/media/cod.8bb76f1d9a446e34a1af.jpg",
     "static/media/placeholder.jpg": "/SEG3125-A2-Proto/static/media/placeholder.6b1073ad6333e8dc1c09.jpg",
     "static/media/CPU9800.jpg": "/SEG3125-A2-Proto/static/media/CPU9800.2ce0e485cf8abf6bc068.jpg",
     "static/media/CPU9950.jpg": "/SEG3125-A2-Proto/static/media/CPU9950.33376d25a1b1318b93a4.jpg",
@@ -13,10 +17,10 @@
     "static/media/CPU9700.jpg": "/SEG3125-A2-Proto/static/media/CPU9700.b33adbc4a8c97a101c1b.jpg",
     "index.html": "/SEG3125-A2-Proto/index.html",
     "main.df5c8fd3.css.map": "/SEG3125-A2-Proto/static/css/main.df5c8fd3.css.map",
-    "main.4044bda4.js.map": "/SEG3125-A2-Proto/static/js/main.4044bda4.js.map"
+    "main.189ed62e.js.map": "/SEG3125-A2-Proto/static/js/main.189ed62e.js.map"
   },
   "entrypoints": [
     "static/css/main.df5c8fd3.css",
-    "static/js/main.4044bda4.js"
+    "static/js/main.189ed62e.js"
   ]
 }
