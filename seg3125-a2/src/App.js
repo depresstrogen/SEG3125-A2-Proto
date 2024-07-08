@@ -1,10 +1,9 @@
 import React from "react";
 import * as ReactDOM from 'react-dom';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import {HashRouter, Routes, Route} from 'react-router-dom';
 import Home from "./Home";
 
 import SiteHeader from "./SiteHeader";
-import RouteManager from "./RouteManager";
 import ProductPage from "./ProductPage";
 import Expert from "./Expert";
 import Learn from "./LearnPage";
@@ -14,7 +13,7 @@ const App = () => {
     return (
     <div>
     
-      <Router>
+      <HashRouter>
             <SiteHeader/>
           <Routes>
             <Route path="/" exact element={<Home/>} />
@@ -23,7 +22,7 @@ const App = () => {
             <Route path="/Learn" exact element={<Learn/>} />
             <Route path="/Cart" exact element={<Cart/>} />
           </Routes>
-      </Router>
+      </HashRouter>
       
     </div>
     );
