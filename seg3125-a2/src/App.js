@@ -8,24 +8,32 @@ import ProductPage from "./ProductPage";
 import Expert from "./Expert";
 import Learn from "./LearnPage";
 import Cart from "./CartPage";
+import CartCard from "./CartCard";
+import { CartProvider } from "./CartContext";
+import { useEffect, useState } from "react";
+
+
 
 const App = () => {
+
     return (
     <div>
-    
-      <HashRouter>
-            <SiteHeader/>
-          <Routes>
-            <Route path="/" exact element={<Home/>} />
-            <Route path="/ProductPage" exact element={<ProductPage/>} />
-            <Route path="/Expert" exact element={<Expert/>} />
-            <Route path="/Learn" exact element={<Learn/>} />
-            <Route path="/Cart" exact element={<Cart/>} />
-          </Routes>
-      </HashRouter>
-      
+      <CartProvider>
+        <HashRouter>
+              <SiteHeader/>
+            <Routes>
+              <Route path="/" exact element={<Home/>} />
+              <Route path="/ProductPage" exact element={<ProductPage/>} />
+              <Route path="/Expert" exact element={<Expert/>} />
+              <Route path="/Learn" exact element={<Learn/>} />
+              <Route path="/Cart" exact element={<Cart/>} />
+            </Routes>
+        </HashRouter>
+      </CartProvider >
     </div>
     );
   }
-  
+
+
+
 export default App;

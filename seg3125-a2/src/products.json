@@ -3,38 +3,44 @@
       "name" : "Ryzen 9 9900",
       "price" : 599.99,
       "img" : "CPU9900.jpg",
-      "categories" : ["CPU", "AMD"]
+      "categories" : ["CPU", "AMD"],
+      "id" : "1-1"
     },
     {
       "name" : "Ryzen 7 9700",
       "price" : 399.99,
       "img" : "CPU9700.jpg",
-      "categories" : ["CPU", "AMD"]
+      "categories" : ["CPU", "AMD"],
+      "id" : "1-2"
     },
     {
       "name" : "Ryzen 5 9500",
       "price" : 299.99,
       "img" : "CPU9500.jpg",
-      "categories" : ["CPU", "AMD"]
+      "categories" : ["CPU", "AMD"],
+      "id" : "1-3"
       
     },
     {
         "name" : "Ryzen 9 9950",
         "price" : 699.99,
         "img" : "CPU9950.jpg",
-        "categories" : ["CPU", "AMD"]
+        "categories" : ["CPU", "AMD"],
+        "id" : "1-4"
     },
     {
         "name" : "Ryzen 7 9800",
         "price" : 499.99,
         "img" : "CPU9800.jpg",
-        "categories" : ["CPU", "AMD"]
+        "categories" : ["CPU", "AMD"],
+        "id" : "1-5"
     },
     {
         "name" : "Ryzen 5 9600",
         "price" : 349.99,
         "img" : "CPU9600.jpg",
-        "categories" : ["CPU", "AMD"]
+        "categories" : ["CPU", "AMD"],
+        "id" : "1-6"
       }
 
   ]
