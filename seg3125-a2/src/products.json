@@ -41,6 +41,28 @@
         "img" : "CPU9600.jpg",
         "categories" : ["CPU", "AMD"],
         "id" : "1-6"
-      }
+    },
+
+    {
+      "name" : "Intel Core i9 14900K",
+      "price" : 799.99,
+      "img" : "CPUi9.jpg",
+      "categories" : ["CPU", "Intel"],
+      "id" : "1-7"
+    },
+    {
+      "name" : "Intel Core i5 14600K",
+      "price" : 399.99,
+      "img" : "CPUi5.jpg",
+      "categories" : ["CPU", "Intel"],
+      "id" : "1-8"
+    },
+    {
+      "name" : "Intel Core i7 14700K",
+      "price" : 549.99,
+      "img" : "CPUi7.jpg",
+      "categories" : ["CPU", "Intel"],
+      "id" : "1-9"
+    }
 
   ]
