@@ -63,6 +63,74 @@
       "img" : "CPUi7.jpg",
       "categories" : ["CPU", "Intel"],
       "id" : "1-9"
+    },
+
+    {
+      "name" : "GIGABYTE B650M GAMING PLUS WIFI",
+      "price" : 199.99,
+      "img" : "MBD-AMD-GIGABYTE.jpg",
+      "categories" : ["MBD", "AMD"],
+      "id" : "2-1"
+    },
+    {
+      "name" : "GIGABYTE B650M GAMING X",
+      "price" : 139.99,
+      "img" : "MBD-AMD-GIGABYTE2.jpg",
+      "categories" : ["MBD", "AMD"],
+      "id" : "2-2"
+    },
+    {
+      "name" : "ASUS Prime B550M-A WIFI",
+      "price" : 139.99,
+      "img" : "MBD-AMD-ASUS.jpg",
+      "categories" : ["MBD", "AMD"],
+      "id" : "2-3"
+    },
+
+    {
+      "name" : "MSI PRO B760M-P",
+      "price" : 119.99,
+      "img" : "MBD-INTEL-MSI.jpg",
+      "categories" : ["MBD", "Intel"],
+      "id" : "2-4"
+    },
+    {
+      "name" : "ASUS ROG Strix B760",
+      "price" : 199.99,
+      "img" : "MBD-INTEL-ASUS.jpg",
+      "categories" : ["MBD", "Intel"],
+      "id" : "2-5"
+    },
+    {
+      "name" : "GIGABYTE Z790 S WIFI",
+      "price" : 199.99,
+      "img" : "MBD-INTEL-GIGABYTE.jpg",
+      "categories" : ["MBD", "Intel"],
+      "id" : "2-6"
+    },
+
+    {
+      "name" : "TeamGroup T-FORCE DELTA RGB 32GB",
+      "price" : 139.99,
+      "img" : "RAM-32.jpg",
+      "categories" : ["RAM"],
+      "id" : "3-1"
+    },
+
+    {
+      "name" : "Corsair Vengance 16GB",
+      "price" : 79.99,
+      "img" : "RAM-16.jpg",
+      "categories" : ["RAM"],
+      "id" : "3-2"
+    },
+
+    {
+      "name" : "Corsair Vengance RGB 64GB",
+      "price" : 199.99,
+      "img" : "RAM-64.jpg",
+      "categories" : ["RAM"],
+      "id" : "3-3"
     }
 
   ]
